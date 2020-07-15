@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Sandglass_Example' do
+  pod 'Sandglass', :path => '../'
+
+  target 'Sandglass_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

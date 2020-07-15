@@ -1,0 +1,16 @@
+PODS:
+  - Sandglass (0.1.0)
+
+DEPENDENCIES:
+  - Sandglass (from `../`)
+
+EXTERNAL SOURCES:
+  Sandglass:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Sandglass: 952be80d57c95b313ea0262aef4e62e13b326160
+
+PODFILE CHECKSUM: ec24abf911f6bfd98a8f265290456c9dc44896b2
+
+COCOAPODS: 1.9.1
