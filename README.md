@@ -9,6 +9,8 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+![](/images/demo.gif)
+
 ## Requirements
 
 ## Installation
@@ -27,3 +29,5 @@ zhangshangen, 645256685@qq.com
 ## License
 
 Sandglass is available under the MIT license. See the LICENSE file for more info.
+
+
